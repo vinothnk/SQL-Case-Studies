@@ -12,7 +12,7 @@ Each case study contains a dataset with a series of questions to practice your S
 ## 📌 Case Studies
 - [Case Study #1 - Danny's Diner](#-case-study-1---dannys-diner)
 - [Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
-- [Case Study #3 - Foodie-Fi](#-case-study-3---foodie-fi)
+
 #
 
 
