@@ -90,12 +90,11 @@ Once the correction is done, the questions were splitted by topics:
 
 ## Case Solutions
 
-[Data cleaning and corrections](https://github.com/AlysterF/8week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/00%20-%20Table%20Corrections.md)
 
-[A. Pizza Metrics](https://github.com/AlysterF/8week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A%20-%20Pizza%20Metrics.md)
+[A. Pizza Metrics](https://github.com/vinothnk/SQL-Case-Studies/tree/main/Pizza%20Runner/1.%20Pizza%20Metrics)
 
-[B. Runner and Customer Experience](https://github.com/AlysterF/8week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B%20-%20Runner%20and%20Customer%20Experience.md)
+[B. Runner and Customer Experience](https://github.com/vinothnk/SQL-Case-Studies/tree/main/Pizza%20Runner/2.%20Runner%20and%20Customer%20Experience)
 
-[C. Ingredient Optmisation](https://github.com/AlysterF/8week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/C%20-%20Ingredient%20Optimisation.md)
+[C. Ingredient Optmisation](https://github.com/vinothnk/SQL-Case-Studies/tree/main/Pizza%20Runner/3.%20Ingredient%20Optimisation)
 
 
