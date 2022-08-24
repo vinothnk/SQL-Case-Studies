@@ -29,7 +29,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 - [Click Here](https://8weeksqlchallenge.com/case-study-1/)
 
 ### My Solutions: 
-- [Click Here](https://github.com/EnyaCrocock/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+- [Click Here](https://github.com/vinothnk/SQL-Case-Studies/tree/main/Danny's%20Diner)
 
 #
 
@@ -49,7 +49,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 - [Click Here](https://8weeksqlchallenge.com/case-study-2/)
 
 ### My Solutions:
-- [Click Here](https://github.com/EnyaCrocock/8_Week_SQL_Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
+- [Click Here](https://github.com/vinothnk/SQL-Case-Studies/tree/main/Pizza%20Runner)
 
 #
 
